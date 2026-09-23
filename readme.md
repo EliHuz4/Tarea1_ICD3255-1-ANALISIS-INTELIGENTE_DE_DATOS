@@ -1,6 +1,7 @@
 # Tarea #1: Diagnóstico de Fallos en Rodamientos (MSE-LR)
 
 **Estudiantes:** Anais Diaz - Cristian Gallardo - Matías Salas
+
 **Profesor:** Prof. Nibaldo Rodríguez
 
 ---
