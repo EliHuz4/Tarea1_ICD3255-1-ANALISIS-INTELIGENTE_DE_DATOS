@@ -92,7 +92,7 @@ def calcular_mde(ventanas, m=2, tau=1, c=3, escalas=5):
 
 if __name__ == "__main__":
     print("1. Cargando señal...")
-    ruta_prueba = "data/fallos/108.mat"
+    ruta_prueba = "data/fallos/118.mat"
     senal_prueba = cargar_senal_cwru(ruta_prueba)
     ventanas_prueba = particionar_ventanas(senal_prueba, tamano_ventana=600)
     

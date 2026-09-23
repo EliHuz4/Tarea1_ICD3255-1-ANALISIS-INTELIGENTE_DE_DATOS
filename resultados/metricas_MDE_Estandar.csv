@@ -1,7 +1,7 @@
 Metrica,Train,Test
-F-score,0.9350993377483444,0.9357326478149101
+F-score,1.0,1.0
 
 Matriz de Confusion Train (TN FP FN TP)
-[   0  284   10 2118]
+[284   0   0 143]
 Matriz de Confusion Test (TN FP FN TP)
-[  0 122   3 910]
+[122   0   0  61]
